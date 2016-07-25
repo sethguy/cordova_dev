@@ -14,10 +14,10 @@ color:blue;
 
 }
 
-#loading{
-	position: relative;
-	text-align: center;
-	top:40%;
+#loader {
+    position: relative;
+    text-align: center;
+    top: 40%;
 
 
 }
