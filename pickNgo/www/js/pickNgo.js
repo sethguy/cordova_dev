@@ -32,7 +32,11 @@ Array.prototype.riMap = function(func) {
 
 function start() {
 
-    
+
+
+    get("loader")
+
+
 
 
 
