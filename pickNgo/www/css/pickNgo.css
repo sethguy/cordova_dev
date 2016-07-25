@@ -14,9 +14,7 @@ color:blue;
 
 }
 
-
-
-.loading{
+#loading{
 	position: relative;
 	text-align: center;
 	top:40%;
