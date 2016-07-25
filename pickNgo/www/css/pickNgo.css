@@ -17,10 +17,11 @@ color:blue;
 
 
 .loading{
+	position: relative;
 	text-align: center;
 	top:40%;
 
-	
+
 }
 
 
