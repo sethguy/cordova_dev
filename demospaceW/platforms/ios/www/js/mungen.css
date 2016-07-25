@@ -1,0 +1,22 @@
+.mungenbox{
+
+  position:absolute;
+ 
+}
+
+
+.cloudlet{
+  
+  position: absolute;
+  background-color: black;
+  opacity: .7;
+  border: 1px solid lightgrey;
+  border-radius:5px;
+    /*  background-image: url('../img/rock.gif');
+background-repeat: no-repeat;
+background-size: 100% 100%;*/
+    -webkit-transition: all 1s ease;  /* Safari */
+    transition: all 1s  ease;
+
+
+}

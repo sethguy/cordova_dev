@@ -1,0 +1,50 @@
+#bcent{
+position: relative;
+height:100%;
+width: 100%;
+overflow: hidden;
+
+border: 0;
+margin: 0;
+background-image: url('../img/space9.jpg');
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+
+}
+
+.rellfull{
+position: relative;
+height:100%;
+width: 100%;
+overflow: hidden;
+
+border: 0;
+margin: 0;
+
+
+
+}
+
+.mainboard{
+top:0;
+left:0;
+position: absolute;
+height:100%;
+width: 100%;
+overflow: hidden;
+
+border: 0;
+margin: 0;
+
+
+}
+
+.pbox{
+position: absolute;
+//opacity: .7;
+border-radius: 50px;
+z-index: 10;
+color:white;
+}
+

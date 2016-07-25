@@ -1,0 +1,45 @@
+.breakbox{
+
+position:absolute;
+height:100px;
+width:100px;
+
+background-color: #0000A0;
+z-index:10;/*
+background-image: url('../img/rock.jpg');
+background-repeat: no-repeat;
+background-size: 100% 100%;*/
+}
+
+
+.freebox{
+
+position:absolute;
+
+border: 1px solid purple;
+background-color: #0000A0;
+z-index:10;
+/*
+background-image: url('../img/rock.gif');
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+    transition: all 1s ;
+    -webkit-transition: 1s;
+   */
+
+font-size: 50%;
+
+
+
+}
+
+.splodeBox{
+
+position: absolute;
+    transition: all .5s ;
+    -webkit-transition: all .5s;
+    z-index: 20;
+
+
+}

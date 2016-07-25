@@ -1,0 +1,19 @@
+.pdid{
+
+position: absolute;
+height:100px;
+width:100px;
+border-radius: 5px;
+border: 1px solid blue;
+}
+
+
+
+.tbox{
+position:absolute;
+height:20px;
+width:20px;
+border-radius: 25px;
+border:2px solid blue;
+background-color: blue;
+}
